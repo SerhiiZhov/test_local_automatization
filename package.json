@@ -1,0 +1,8 @@
+{
+  "name": "test-automatization",
+  "version": "1.0.0",
+  "description": "Проект автоматизации",
+  "scripts": {
+    "go": "node time.js"
+  }
+}
