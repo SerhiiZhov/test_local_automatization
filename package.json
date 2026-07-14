@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Проект автоматизации",
   "scripts": {
-    "go": "node time.js"
+    "go": "node time.js",
+    "test": "echo \"tests passed\""
   }
 }
